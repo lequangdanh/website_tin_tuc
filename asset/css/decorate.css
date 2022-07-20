@@ -1,0 +1,71 @@
+.noidung{
+	background-color: rgb(122, 242, 247);
+	
+}
+
+.table1 { width:100%;
+	table-layout:fixed;
+	margin-top: 60px;
+	border: 1px;
+  border-color: black;
+  border-style: solid;
+  text-align: center;
+  
+ }
+
+.table1 td { overflow:hidden;
+	
+	white-space:nowrap;
+	border: 1px;
+  border-color: black;
+  border-style: solid;
+
+
+} 
+.tieude{
+	padding-left: 20px;
+}
+
+
+
+
+.container-fluid{
+  color: black;
+}
+
+.row-container{
+	
+	border: 1px;
+	border-color: black;
+	border-style: solid;
+	 padding-top: 20px; 
+	
+	
+
+}
+
+.bg{
+	background-image: url('./img/water-1330252_1920.jpg');
+	padding-top: 30px;
+	
+	
+	width: 100%;
+	height: 100%;
+}
+#footer{
+	background-color: white;
+}
+
+#container2{
+	padding-bottom: 30px;
+}
+.ten:hover {
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ .navlink:hover{
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
